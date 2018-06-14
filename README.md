@@ -1,4 +1,4 @@
-This repository features a minimal code example to reproduce a bug in React Native's Fetch API.
+This repository features a minimal code example to reproduce a bug in React Native's Fetch API. While this repository does not use React Native, it uses OkHttp in the same way React Native does.
 
 ## Code
 
